@@ -1,0 +1,14 @@
+agent_collaborates_with_agent
+subpart_of
+television_station_affiliated_with
+agent_belongs_to_organization
+company_economic_sector
+agent_controls
+subpart_of_organization
+acquired
+organization_headquartered_in_city
+organization_hired_person
+top_member_of_organization
+works_for
+headquartered_in
+organization_terminated_person
