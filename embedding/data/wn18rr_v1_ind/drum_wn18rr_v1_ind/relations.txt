@@ -1,0 +1,8 @@
+_derivationally_related_form
+_hypernym
+_also_see
+_verb_group
+_has_part
+_synset_domain_topic_of
+_member_meronym
+_similar_to
