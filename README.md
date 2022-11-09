@@ -1,4 +1,4 @@
-# entity type constraint
+# Entity-type Constraint
 
 ### Requirements
 ```
